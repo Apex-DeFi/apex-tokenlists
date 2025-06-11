@@ -1729,6 +1729,23 @@
       "decimals": 18
     }
   },
+    {
+    "type": "wrapped",
+    "address": "0x04302672Bdb4F7b90d99e0F6Ea932EF5aD3B4416",
+    "name": "Apex Wrapped LAMBO",
+    "symbol": "aLAMBO",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreie4aqote2ywqonov4xrx4qdi3cmsaiwqoctm66yitdp2gs2twbow4",
+    "tags": [],
+    "wrapperAddress": "0x7e41260Fc1946826a30A2427C7232E3240811B5d",
+    "underlyingToken": {
+      "address": "0x6F43fF77A9C0Cf552b5b653268fBFe26A052429b",
+      "name": "LAMBO",
+      "symbol": "LAMBO",
+      "decimals": 18
+    }
+  },
   {
     "type": "native",
     "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
