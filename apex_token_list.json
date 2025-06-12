@@ -1729,7 +1729,7 @@
       "decimals": 18
     }
   },
-    {
+  {
     "type": "wrapped",
     "address": "0x04302672Bdb4F7b90d99e0F6Ea932EF5aD3B4416",
     "name": "Apex Wrapped LAMBO",
@@ -1743,6 +1743,23 @@
       "address": "0x6F43fF77A9C0Cf552b5b653268fBFe26A052429b",
       "name": "LAMBO",
       "symbol": "LAMBO",
+      "decimals": 18
+    }
+  },
+  {
+    "type": "wrapped",
+    "address": "0x463A7e39898c7c8aa893D62fA27da5057AC75E9a",
+    "name": "Apex Wrapped WOLFI",
+    "symbol": "aWOLFI",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "",
+    "tags": [],
+    "wrapperAddress": "0x1a308E46577bce12d23617Caa3068Fa3E7620f54",
+    "underlyingToken": {
+      "address": "0x5DDc8d968a94cf95CfeB7379F8372d858B9C797d",
+      "name": "WOLFI",
+      "symbol": "WOLFI",
       "decimals": 18
     }
   },
