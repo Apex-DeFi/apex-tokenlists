@@ -1753,7 +1753,7 @@
     "symbol": "aWOLFI",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "",
+    "logoURI": "ipfs://bafybeibfh4g4ijcxazdwy2xeemho5chpdetxl2wc7a2j74igp4g4yyuufa",
     "tags": [],
     "wrapperAddress": "0x1a308E46577bce12d23617Caa3068Fa3E7620f54",
     "underlyingToken": {
