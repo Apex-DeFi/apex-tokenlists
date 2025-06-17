@@ -1764,6 +1764,23 @@
     }
   },
   {
+    "type": "wrapped",
+    "address": "0x490bf7Bac47C7a9Fe0a1F9EB543e44e32B02e3EB",
+    "name": "Apex Wrapped FOMO",
+    "symbol": "aFOMO",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "",
+    "tags": [],
+    "wrapperAddress": "0x5Fe449ceC13bc3459F6394f4674F293dD71Ac6d6",
+    "underlyingToken": {
+      "address": "0x87202a2402414f4F58c52764FAA7b015d104bE82",
+      "name": "FOMO",
+      "symbol": "FOMO",
+      "decimals": 18
+    }
+  },
+  {
     "type": "native",
     "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
     "name": "xAPEX",
