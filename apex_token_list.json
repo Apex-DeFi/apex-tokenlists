@@ -1770,7 +1770,7 @@
     "symbol": "aFOMO",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "",
+    "logoURI": "ipfs://bafkreig5w6lnrkv6bg3t3d6f4rx6zkvjhvwofkglwrdbdiq7giuunurxt4",
     "tags": [],
     "wrapperAddress": "0x5Fe449ceC13bc3459F6394f4674F293dD71Ac6d6",
     "underlyingToken": {
