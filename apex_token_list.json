@@ -1781,6 +1781,23 @@
     }
   },
   {
+    "type": "wrapped",
+    "address": "0x772Ebf2767407B6d94D7bC0F0941E28EcF308CDc",
+    "name": "Apex Wrapped SUPRA",
+    "symbol": "aSUPRA",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreig5w6lnrkv6bg3t3d6f4rx6zkvjhvwofkglwrdbdiq7giuunurxt4",
+    "tags": [],
+    "wrapperAddress": "0x5c84B4F2e5a996B3Fc71511d64f0B77b36c3e9f9",
+    "underlyingToken": {
+      "address": "0xDb2E8b12edA7607832189D680E111C315e174b69",
+      "name": "SUPRA",
+      "symbol": "SUPRA",
+      "decimals": 18
+    }
+  },
+  {
     "type": "native",
     "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
     "name": "xAPEX",
