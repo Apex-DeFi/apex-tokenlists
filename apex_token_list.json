@@ -1645,6 +1645,16 @@
     "tags": []
   },
   {
+    "type": "native",
+    "address": "0x694207A9f708355Ee3119F11E55bc5c0B1845Ba2",
+    "name": "RED PEPE",
+    "symbol": "RPEPE",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreidu5pjwdoxblaw6t44rzv3j4qhvheiyipntvypwferzh5cujzlche",
+    "tags": []
+  },
+  {
     "type": "wrapped",
     "address": "0x0F83F86D32e9bb1fc912F6C611579682A8D0C1fC",
     "name": "Wink",
