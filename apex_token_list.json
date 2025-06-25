@@ -1808,6 +1808,23 @@
     }
   },
   {
+    "type": "wrapped",
+    "address": "0x4Ab51BA72b941EeD0D0ec4b1C1bE5b2cb7404D80",
+    "name": "Apex Wrapped CROC",
+    "symbol": "aCROC",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "",
+    "tags": [],
+    "wrapperAddress": "0x1FB3F2253783102491b440b1127e7FfE8949C612",
+    "underlyingToken": {
+      "address": "0x4CB85e39d5622Af604405077A589c3078F3A59b2",
+      "name": "CROC",
+      "symbol": "CROC",
+      "decimals": 18
+    }
+  },
+  {
     "type": "native",
     "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
     "name": "xAPEX",
