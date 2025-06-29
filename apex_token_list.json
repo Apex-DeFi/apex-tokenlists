@@ -1836,8 +1836,8 @@
     "wrapperAddress": "0xfb0cf88Aec79024f31c7b64D10bf68019Ed29332",
     "underlyingToken": {
       "address": "0x02D159a0c393B3A982c4Acb3d03816A42D94F1aB",
-      "name": "CROC",
-      "symbol": "CROC",
+      "name": "GCROC",
+      "symbol": "GCROC",
       "decimals": 18
     }
   },
