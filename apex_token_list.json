@@ -1814,11 +1814,28 @@
     "symbol": "aCROC",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "",
+    "logoURI": "ipfs://bafkreicdc42l2m5rlnie5qwev3bz5vh5yierkz2s6mw25r77sbaxeichoa",
     "tags": [],
     "wrapperAddress": "0x1FB3F2253783102491b440b1127e7FfE8949C612",
     "underlyingToken": {
       "address": "0x4CB85e39d5622Af604405077A589c3078F3A59b2",
+      "name": "CROC",
+      "symbol": "CROC",
+      "decimals": 18
+    }
+  },
+  {
+    "type": "wrapped",
+    "address": "0x1fF575d0f6600B8B64e3D8e03D379960DB914D2F",
+    "name": "Apex Wrapped GCROC",
+    "symbol": "aGCROC",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreigias4gsalgieyrm4psp45xejnnzmuemr6u4xwt26pgppwgxnp2ja",
+    "tags": [],
+    "wrapperAddress": "0xfb0cf88Aec79024f31c7b64D10bf68019Ed29332",
+    "underlyingToken": {
+      "address": "0x02D159a0c393B3A982c4Acb3d03816A42D94F1aB",
       "name": "CROC",
       "symbol": "CROC",
       "decimals": 18
