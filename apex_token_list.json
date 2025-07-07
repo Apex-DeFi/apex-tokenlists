@@ -1842,6 +1842,40 @@
     }
   },
   {
+    "type": "wrapped",
+    "address": "0x4a88767D7Fd1f42D9992Fad9499345B9752e6138",
+    "name": "Apex Wrapped JoeToken",
+    "symbol": "aJOE",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreid4utqajor3v3ao66jz4yfeasjoomd7gag7gsxfzcq4b2k77vfrfu",
+    "tags": [],
+    "wrapperAddress": "0x485Ea0D10774b0250C66b999763F3Ce32DD6ED82",
+    "underlyingToken": {
+      "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "name": "JoeToken",
+      "symbol": "JOE",
+      "decimals": 18
+    }
+  },
+  {
+    "type": "wrapped",
+    "address": "0x2aAaD91c486488Ac0e59777f6800305037974761",
+    "name": "Apex Wrapped BENQI",
+    "symbol": "aQI",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreie67uoz2mmxgidd7prmwgwpgzmuowap6unouy2sskenhqmvddw2fi",
+    "tags": [],
+    "wrapperAddress": "0xDE24686268BB5ddfAC35D032e2663c1D700114A1",
+    "underlyingToken": {
+      "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "name": "BENQI",
+      "symbol": "QI",
+      "decimals": 18
+    }
+  },
+  {
     "type": "native",
     "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
     "name": "xAPEX",
