@@ -696,16 +696,6 @@
   },
   {
     "type": "native",
-    "address": "0x737bEf45D9Cc7268751F43EB1545D85917891b83",
-    "name": "Black Man ",
-    "symbol": "BLK",
-    "decimals": 18,
-    "chainId": 43114,
-    "logoURI": "ipfs://bafkreic3oit7swpjy4tivb2yvws2wigeg5nputuzqki3cwrntf3j45vlbi",
-    "tags": []
-  },
-  {
-    "type": "native",
     "address": "0x91D75A16E44e4259F566149cb7a5A7a3ae3a53B2",
     "name": "Boba Oppa",
     "symbol": "BOBA",
