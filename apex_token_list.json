@@ -1876,6 +1876,23 @@
     }
   },
   {
+    "type": "wrapped",
+    "address": "0xeb3dFdc417196957ead466F103336D02E96A8734",
+    "name": "Apex Wrapped BLACKHOLE",
+    "symbol": "aBLACK",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreigbqsfaoi7togte6de2yg635rn75hz6xpfwaitjypxy2csukk35sy",
+    "tags": [],
+    "wrapperAddress": "0xBF2B8657D7A44aCB5832689D37D63667Bc97789e",
+    "underlyingToken": {
+      "address": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
+      "name": "BLACKHOLE",
+      "symbol": "BLACK",
+      "decimals": 18
+    }
+  },
+  {
     "type": "native",
     "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
     "name": "xAPEX",
