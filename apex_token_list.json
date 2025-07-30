@@ -206,7 +206,7 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "ipfs://bafkreiauebb5fulzsjtzdtqo2tqzbiwlix45neuou5ku7pqc6s2zz5oqiu",
-    "tags": ["bluechip"],
+    "tags": [],
     "wrapperAddress": "0x26ab72d5F5bDCf68e3469ecFE19029e53C3124d5",
     "underlyingToken": {
       "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
@@ -240,7 +240,7 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "ipfs://bafkreicoeahfu4cu222nykkphrk2sulppxge7plkokts7vrqyqt7vvqyni",
-    "tags": ["bluechip"],
+    "tags": [],
     "wrapperAddress": "0x1f6C7EF97286a4a93DeB2AC6c1251628d6F8e50F",
     "underlyingToken": {
       "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
@@ -257,7 +257,7 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "ipfs://bafkreigeih7erclkwxqn5w6d54nnaprvkzpv4g5e6dgcu57xwkmjgb7bha",
-    "tags": ["bluechip"],
+    "tags": [],
     "wrapperAddress": "0x737805FdE929E5DeD9266C481926c34f076a2E68",
     "underlyingToken": {
       "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
@@ -325,7 +325,7 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "ipfs://bafkreieedrqr7qifd5y3hm6m4zmpeyncxai5h7ri65jvhaqwavli3wpvm4",
-    "tags": ["bluechip"],
+    "tags": [],
     "wrapperAddress": "0x0133a82C4a2Ec404eA61529C45eE15B08D374bFf",
     "underlyingToken": {
       "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
@@ -342,7 +342,7 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "ipfs://bafkreid5otxyaxgxyddgprwfdpyf4sahzfus7565dhyogtqrcuyb4j56re",
-    "tags": ["bluechip"],
+    "tags": [],
     "wrapperAddress": "0x9Dcde306a41615296A36eB5a93399969d08BE6C4",
     "underlyingToken": {
       "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
@@ -359,7 +359,7 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "ipfs://bafkreidkor4vt3n2kp3jqyiv6vqw6ser27twkq5kevoxho3zxfelyuwrbm",
-    "tags": ["bluechip"],
+    "tags": [],
     "wrapperAddress": "0x77cB12D513e120248cE622f08E26E09fFe9E8573",
     "underlyingToken": {
       "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
