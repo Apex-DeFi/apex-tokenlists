@@ -82,23 +82,6 @@
   },
   {
     "type": "wrapped",
-    "address": "0x9e992B7eE1B5B074EB2642BEC42dFbF64f3A8a9e",
-    "name": "agKIMBO",
-    "symbol": "agKIMBO",
-    "decimals": 18,
-    "chainId": 43114,
-    "logoURI": "ipfs://bafkreic3k4vtftqnpad4e5vwrxizlvgbbwnrhss5ktoykqd27s23n7ba3q",
-    "tags": [],
-    "wrapperAddress": "0x7a216E241eB8a1c3743FB1Fe676301cFB4aBcd47",
-    "underlyingToken": {
-      "address": "0x4e6B2A6a282F62d5A1C449c1A52237E913f4590C",
-      "name": "Kimbo College",
-      "symbol": "gKimbo",
-      "decimals": 18
-    }
-  },
-  {
-    "type": "wrapped",
     "address": "0xE9C2b304A4dbF0Fe8546e5e4e2C415F5D5E4B7c4",
     "name": "aKIMBO",
     "symbol": "aKIMBO",
@@ -1462,6 +1445,23 @@
       "name": "Wink",
       "symbol": "WINK",
       "decimals": 18
+    }
+  },
+  {
+    "type": "wrapped",
+    "address": "0x1b923f8B47B4F4b15251cc48c8749745d53B1516",
+    "name": "AUSD",
+    "symbol": "aAUSD",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreiarixcni42cqx5bt4hrry34bbgpei5b3e6iy5obu2w73jvrytjw3u",
+    "tags": [],
+    "wrapperAddress": "0x6C5D3169b811CC0D40b13D3bF92744985e5F05A2",
+    "underlyingToken": {
+      "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+      "name": "AUSD",
+      "symbol": "AUSD",
+      "decimals": 6
     }
   },
   {
