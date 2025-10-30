@@ -1489,7 +1489,7 @@
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "ipfs://bafkreiarixcni42cqx5bt4hrry34bbgpei5b3e6iy5obu2w73jvrytjw3u",
-    "tags": ["bluechip"],
+    "tags": [],
     "wrapperAddress": "0x6C5D3169b811CC0D40b13D3bF92744985e5F05A2",
     "underlyingToken": {
       "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
