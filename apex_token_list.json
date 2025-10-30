@@ -1449,6 +1449,23 @@
   },
   {
     "type": "wrapped",
+    "address": "0xCE645071Ff749079c07aC9F07d2BaBa25B616DA6",
+    "name": "Apex Wrapped Staked AVAX",
+    "symbol": "asAVAX",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreibvtepvrf2jgtxqyndotkia7iu7tck5vythw4uktz3gigpqws6aoy",
+    "tags": ["bluechip"],
+    "wrapperAddress": "0x430DdEC0dCB2b1505644d3D1F20bcB0E88AB2F46",
+    "underlyingToken": {
+      "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+      "name": "Staked AVAX",
+      "symbol": "sAVAX",
+      "decimals": 18
+    }
+  },
+  {
+    "type": "wrapped",
     "address": "0x8E02a1e04C8EEBBC08fDeb66bdFf172faCf65d96",
     "name": "Apex Wrapped Ether",
     "symbol": "aWETH.e",
