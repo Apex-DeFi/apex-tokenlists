@@ -1454,7 +1454,7 @@
     "symbol": "aUSDC",
     "decimals": 18,
     "chainId": 43114,
-    "logoURI": "ipfs://bafkreiarixcni42cqx5bt4hrry34bbgpei5b3e6iy5obu2w73jvrytjw3u",
+    "logoURI": "ipfs://bafkreiagpihiaq4fmbdtnp6njd626i5ab3hlumefjh22jvrhz2dkav7xna",
     "tags": ["bluechip"],
     "wrapperAddress": "0xc80f887f6eF3eC6683E24a873e0A935f49FC817D",
     "underlyingToken": {
