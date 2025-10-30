@@ -1449,6 +1449,23 @@
   },
   {
     "type": "wrapped",
+    "address": "0x8E02a1e04C8EEBBC08fDeb66bdFf172faCf65d96",
+    "name": "Apex Wrapped Ether",
+    "symbol": "aWETH.e",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreicws6reu7ai6djv4bnwxiycpsdmty4qfopfsghu7ronmzooie4m3e",
+    "tags": ["bluechip"],
+    "wrapperAddress": "0xbF88e0D6C50879D6f6ADCfb81CdD83bEC831Bb18",
+    "underlyingToken": {
+      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "name": "Wrapped Ether",
+      "symbol": "WETH.e",
+      "decimals": 18
+    }
+  },
+  {
+    "type": "wrapped",
     "address": "0xdd4bFA270c5926db781FaF9bf8D33998C6956d14",
     "name": "Apex Wrapped TetherToken",
     "symbol": "aUSDt",
