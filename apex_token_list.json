@@ -1476,8 +1476,8 @@
     "wrapperAddress": "0xc80f887f6eF3eC6683E24a873e0A935f49FC817D",
     "underlyingToken": {
       "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-      "name": "USDC",
-      "symbol": "USD Coin",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "decimals": 6
     }
   },
