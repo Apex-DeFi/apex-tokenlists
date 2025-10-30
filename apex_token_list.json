@@ -1449,6 +1449,23 @@
   },
   {
     "type": "wrapped",
+    "address": "0xdd4bFA270c5926db781FaF9bf8D33998C6956d14",
+    "name": "Apex Wrapped TetherToken",
+    "symbol": "aUSDt",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreicws6reu7ai6djv4bnwxiycpsdmty4qfopfsghu7ronmzooie4m3e",
+    "tags": ["bluechip"],
+    "wrapperAddress": "0x6364839853394084936042c4Dc011Afe783b8941",
+    "underlyingToken": {
+      "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "name": "TetherToken",
+      "symbol": "USDt",
+      "decimals": 6
+    }
+  },
+  {
+    "type": "wrapped",
     "address": "0x9aF107a2D06ef9263C27A9F0a536D8A2805d697e",
     "name": "Apex Wrapped USD Coin",
     "symbol": "aUSDC",
