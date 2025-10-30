@@ -1449,13 +1449,30 @@
   },
   {
     "type": "wrapped",
+    "address": "0x9aF107a2D06ef9263C27A9F0a536D8A2805d697e",
+    "name": "Apex Wrapped USD Coin",
+    "symbol": "aUSDC",
+    "decimals": 18,
+    "chainId": 43114,
+    "logoURI": "ipfs://bafkreiarixcni42cqx5bt4hrry34bbgpei5b3e6iy5obu2w73jvrytjw3u",
+    "tags": ["bluechip"],
+    "wrapperAddress": "0xc80f887f6eF3eC6683E24a873e0A935f49FC817D",
+    "underlyingToken": {
+      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "USDC",
+      "symbol": "USD Coin",
+      "decimals": 6
+    }
+  },
+  {
+    "type": "wrapped",
     "address": "0x1b923f8B47B4F4b15251cc48c8749745d53B1516",
-    "name": "AUSD",
+    "name": "Apex Wrapped AUSD",
     "symbol": "aAUSD",
     "decimals": 18,
     "chainId": 43114,
     "logoURI": "ipfs://bafkreiarixcni42cqx5bt4hrry34bbgpei5b3e6iy5obu2w73jvrytjw3u",
-    "tags": [],
+    "tags": ["bluechip"],
     "wrapperAddress": "0x6C5D3169b811CC0D40b13D3bF92744985e5F05A2",
     "underlyingToken": {
       "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
